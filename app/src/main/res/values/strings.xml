@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Xinlan\'s Android Lab1</string>
-    <string name="hello_message">hello world!</string>
+    <string name="hello_message" translatable="false">hello world!</string>
+    <string name="button_message" translatable="false">I am a button</string>
 </resources>
